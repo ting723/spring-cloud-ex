@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/ting723/SpringcloudConfig/
+          uri: https://github.com/ting723/SpringcloudConfig
           searchPaths: respo
           username:
           password:
